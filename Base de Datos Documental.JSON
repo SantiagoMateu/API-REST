@@ -1,0 +1,52 @@
+{
+"bibloteca":[
+            "id 1": {
+                    "Autor": "John Kennedy Toole",
+                    "Categoria": "categorías / 2",
+                    "Libro": "La conjura de los necios",
+                    "Precio": 14000,
+                    "Stock": true
+                    },
+            "id 2": {
+                    "Autor": "Cavan Scott",
+                    "Categoria": "categorías / 1",
+                    "Libro": "Star Wars: Tormenta Creciente",
+                    "Precio": 20000,
+                    "Stock": true
+                    },
+            "id 3": {
+                    "Autor": "Ayanta Barilli",
+                    "Categoría": "categorías / 3",
+                    "Libro": "Si no amaneciera",
+                    "Precio": 12000,
+                    "Stock": true
+                    },
+            "id 4": {
+                    "Autor": "Felipe Pigna",
+                    "Categoria": "categorías / 4",
+                    "Libro": "Los Guemes",
+                    "Precio": 24000,
+                    "Stock": true
+                    }
+            ]
+},
+{
+    "categorias": [
+                    {
+                    "id": 1,
+                    "nombre": "ficcion"
+                    },
+                    {
+                    "id": 2,
+                    "nombre": "comedia"
+                    },
+                    {
+                    "id": 3,
+                    "nombre": "drama"
+                    },
+                    {
+                    "id": 4,
+                    "nombre": "historia"
+                    },
+                  ]
+}
