@@ -122,7 +122,7 @@
           }
 
 ### REQUEST
-##[DELETE]https://console.firebase.google.com/negocio/bibloteca?ID=3
+## [DELETE]https://console.firebase.google.com/negocio/bibloteca?ID=3
 
 ### RESPONSE
 
