@@ -6,13 +6,13 @@
 
 ###### Response
 "bibloteca":[
-             "id 1": {
-                        "Autor": "John Kennedy Toole",
-                        "Categoria": "categorías / 2",
-                        "Libro": "La conjura de los necios",
-                        "Precio": 14000,
-                        "Stock": true
-                      },
+"id 1": {
+"Autor": "John Kennedy Toole",
+"Categoria": "categorías / 2",
+"Libro": "La conjura de los necios",
+"Precio": 14000,
+"Stock": true
+},
              "id 2": {
                         "Autor": "Cavan Scott",
                         "Categoria": "categorías / 1",
