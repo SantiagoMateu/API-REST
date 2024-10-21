@@ -1,10 +1,10 @@
 # Arquitectura API REST
 ## API Bibloteca
 
-###### Request
-[GET]https://console.firebase.google.com/negocio/bibloteca
+####REQUEST
+##[GET]https://console.firebase.google.com/negocio/bibloteca
 
-###### Response
+####RESPONSE
 "bibloteca":[
              "id 1": {
                         "Autor": "John Kennedy Toole",
@@ -36,9 +36,8 @@
                       }
             ]
 
-
-###### Request
-[POST]://console.firebase.google.com/negocio/bibloteca
+####REQUEST
+##[POST]://console.firebase.google.com/negocio/bibloteca
 header:{ 
         "token": "eyJhbGciO" 
        },
@@ -50,7 +49,7 @@ body: {
         "Stock": true
       }
       
-###### Response
+####RESPONSE
 header: {
          "token": "eyJhbGciO"
          "status code": 200
@@ -63,8 +62,8 @@ body:  {
         "Stock": true
         }
         
-###### Request
-[PUT]https://console.firebase.google.com/negocio/bibloteca?ID=2
+####REQUEST
+##[PUT]https://console.firebase.google.com/negocio/bibloteca?ID=2
 header:{ 
         "token": "eyJhbGciOdfgdfgadasdasdf"
        },
@@ -76,7 +75,7 @@ body: {
     "Stock": true
       }
         
-###### Response
+####RESPONSE
 header:{ 
         "token": "eyJhbGciOdfgdfgadasdasdf"
          "status code": 200
@@ -89,10 +88,10 @@ body: {
     "Stock": true
       }
 
-###### Request
-[DELETE]https://console.firebase.google.com/negocio/bibloteca?ID=3
+####REQUEST
+##[DELETE]https://console.firebase.google.com/negocio/bibloteca?ID=3
 
-###### Response
+####RESPONSE
 {
     "message": "El recurso con ID 3 se ha eliminado exitosamente."
 }
