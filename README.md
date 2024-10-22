@@ -75,13 +75,13 @@
               "token": "eyJhbGciO"
               "status code": 200
             },
-    body: {
-            "Autor": "Michal Witkowski",
-            "Categoria": "categorías / 2",
-            "Libro": "el leñador",
-            "Precio": 23000,
-            "Stock": true
-          }
+      body: {
+              "Autor": "Michal Witkowski",
+              "Categoria": "categorías / 2",
+              "Libro": "el leñador",
+              "Precio": 23000,
+              "Stock": true
+            }
         
 ### REQUEST
 ## [PUT]https://console.firebase.google.com/negocio/bibloteca?ID=2
