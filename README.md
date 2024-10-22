@@ -84,7 +84,7 @@
           }
         
 ### REQUEST
-##[PUT]https://console.firebase.google.com/negocio/bibloteca?ID=2
+## [PUT]https://console.firebase.google.com/negocio/bibloteca?ID=2
 
     header: { 
               "token": "eyJhbGciOdfgdfgadasdasdf"
